@@ -6,8 +6,9 @@ A small web project created as a digital birthday gift for a friend. Built with 
 
 ## Features
 
-- Interactive and Personal Design: Uses a combination of text and animated GIFs to create a fun, personalized greeting.
-- Clean, Modern Layout: Built with a clean HTML structure and styled with CSS for a polished look.
+- **Interactive and Personal Design:** Uses a combination of text and animated GIFs to create a fun, personalized greeting.
+- **Clean, Modern Layout:** Built with a clean HTML structure and styled with CSS for a polished look.
+- **Intuitive User Experience:** Presents a simple, single-page interface that is easy to navigate
 
 ## Technologies Used
 
